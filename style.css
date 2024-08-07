@@ -122,8 +122,6 @@ button {
 }
 
 .card .placeholder {
-  box-sizing: border-box;
-
   width: 150px;
   height: 150px;
 
@@ -199,9 +197,7 @@ button {
 }
 
 .cta button {
-  box-sizing: border-box;
-
-  border: 4px solid #FFF;
+  border: 3px solid #FFF;
 }
 
 /* FOOTER */
