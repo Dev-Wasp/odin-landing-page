@@ -139,3 +139,36 @@ button {
 
   text-align: center;
 }
+
+/* MAIN QUOTE */
+
+.quote {
+  padding: 92px 0 72px 0;
+
+  background-color: #E5E7EB;
+}
+
+.quote .container {
+  width: 730px;
+
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.quote .text {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+
+  color: #1F2937;
+}
+
+.quote .author {
+  align-self: flex-end;
+
+  font-size: 18px;
+  font-weight: 700;
+}
