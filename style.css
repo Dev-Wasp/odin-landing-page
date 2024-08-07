@@ -8,8 +8,6 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-
-  border: 1px dotted orange;
 }
 
 /* HEADER */
@@ -204,4 +202,15 @@ button {
   box-sizing: border-box;
 
   border: 4px solid #FFF;
+}
+
+/* FOOTER */
+
+.footer {
+  background-color: #1F2937;
+  color: #FFF;
+
+  text-align: center;
+
+  padding: 32px 0;
 }
